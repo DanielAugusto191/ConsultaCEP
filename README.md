@@ -1,5 +1,5 @@
 # ConsultaCEP
-Aplicativo Simples para consulta de CEP - Brasil utilizando uma API
+Aplicativo para consulta de CEP - Brasil utilizando uma API
 
 Documentação da API: https://docs.awesomeapi.com.br/api-cep
 
